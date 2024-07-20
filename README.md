@@ -8,7 +8,7 @@ Run this command
 git clone https://
 ```
 ``` bash
-cd 
+cd text_to_speech
 ```
 ## Installation
 ```bash
