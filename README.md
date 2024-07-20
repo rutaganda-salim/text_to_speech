@@ -5,7 +5,7 @@ This is a simple python program for beginners
 
 Run this command
 ```bash
-git clone https://
+git clone https://github.com/rutaganda-salim/text_to_speech.git
 ```
 ``` bash
 cd text_to_speech
@@ -22,4 +22,5 @@ python text_to_speech.py
 ## Troubleshooting
 
 .Ensure all dependencies are installed and up-to-date.
+
 .Verify the available voices on your system if the desired voice does not appear.
